@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="/Simple Technology LinkedIn Banner.png" alt="Imagen de teclado con perfil de usuario" width="100%">
     <h1 align="center">Hi👋, I'm Facundo Vecino</h1>
-   # 💫 About Me:
+   #💫 About Me:
 ¡Hola a todos! 👋<br><br>Soy un apasionado programador junior de 18 años, originario de la hermosa Santiago del Estero, Argentina. Mi insaciable sed de conocimiento y mi entusiasmo por el mundo de la programación me impulsan a superar cualquier desafío que se presente en mi camino.<br><br>Desde que descubrí mi amor por la codificación, he estado inmerso en un emocionante viaje de aprendizaje constante. Mi juventud es mi mayor activo, ya que me permite abrazar nuevas tecnologías y enfoques con una mente fresca y creativa.<br><br>Mi objetivo es no solo destacar en cada proyecto en el que participe, sino también contribuir de manera significativa a equipos colaborativos y generar soluciones innovadoras en proyectos individuales. Mi pasión por la programación se une a mi compromiso inquebrantable de alcanzar la excelencia en cada línea de código que escribo.<br><br>Mi experiencia abarca varios lenguajes de programación y tecnologías, y estoy emocionado de seguir ampliando mi conjunto de habilidades. Mi determinación y mi mentalidad abierta me permiten abordar desafíos complejos con confianza y perseverancia.<br><br>Siempre estoy ansioso por aprender y crecer, y estoy emocionado por las oportunidades que me esperan en el mundo de la programación. Si estás buscando un joven talentoso y dedicado para unir fuerzas en tu próximo proyecto, no dudes en contactarme. ¡Estoy listo para sumergirme de cabeza en cualquier desafío y demostrar de lo que soy capaz!<br><br>¡Vamos a construir el futuro juntos, una línea de código a la vez! 💻🚀<br><br>Saludos desde Santiago del Estero,<br>- Facundo Vecino<br>
 
 
@@ -17,9 +17,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FacundoVecino&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FacundoVecino&limit=5&theme=radical&combine_all_yearly_contributions=true)
